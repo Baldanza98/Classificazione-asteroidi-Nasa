@@ -1,7 +1,21 @@
-# Classificazione-asteroidi-Nasa
+Habits
+================
 
-Il lavoro è eleborato fruendo un dataset della Nasa che è disponibile in questa reposity. L’obbiettivo del mio lavoro è di trovare tramite l’utilizzo di modelli mistura(mixture models) il miglior classificatore. Lo scotpo della classificazione è di predire la classe di appertenza,in questo caso asteroide pericoloso o no, di un nuovo tipo di unità statistica.
+# CLASSIFICAZIONE ASTEROIDI NASA
+
+```{r figurename, echo=FALSE, out.width = '40%'}
+
+include_graphics("nasa.png")
+```
+
+Il lavoro è eleborato fruendo un dataset della Nasa che è disponibile a
+questo link
+<https://www.kaggle.com/shrutimehta/nasa-asteroids-classification>.
+L’obbiettivo del mio lavoro è di trovare tramite l’utilizzo di modelli
+mistura(mixture models) il miglior classificatore. Lo scopo della
+classificazione è di predire la classe di apperteneza,in questo caso
+asteroide pericoloso o no, di un nuovo tipo di osservazione.
 
 Si riporta lo script completo del lavoro effettuato.
 
-I risultati sono riportati nel file pdf.
+I risultati e le discussioni sono riportati nel file pdf.
