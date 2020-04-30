@@ -1,12 +1,4 @@
-Habits
-================
-
 # CLASSIFICAZIONE ASTEROIDI NASA
-
-```{r figurename, echo=FALSE, out.width = '40%'}
-
-include_graphics("nasa.png")
-```
 
 Il lavoro è eleborato fruendo un dataset della Nasa che è disponibile a
 questo link
